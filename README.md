@@ -24,6 +24,6 @@ El diseño de la aplicación debe ser responsivo, organizando las citas en una s
 ### Ejercicio 2
 Se requiere el desarrollo de una aplicación móvil en React Native que permita visualizar información sobre platillos típicos a partir de un objeto JSON, mostrando detalles como nombre, descripción, foto, ingredientes, región de origen, precio y categoría. La interfaz debe estructurarse mediante Flexbox, asegurando una disposición adaptable en diferentes tamaños y orientaciones de pantalla, con una organización en una columna en modo vertical y dos columnas en modo horizontal. La navegación se gestionará mediante React Navigation con Stack Navigator, permitiendo moverse entre una pantalla principal, donde se mostrará un resumen del platillo en una tarjeta con imagen y descripción breve, y una pantalla de detalles, donde se visualizará la información completa con la lista de ingredientes.
 
-[Ejercicio 2](https://snack.expo.dev/@6nelson9/platillos?platform=ios)
+[Ejercicio 2](https://snack.expo.dev/@6nelson9/platillos?platform=web)
 
 ---
